@@ -1,14 +1,26 @@
-
 # House Price Prediction
 
-End-to-end machine learning project.
+Machine learning project to predict house prices using Linear Regression.
 
-Tech Stack:
+## Tech Stack
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Matplotlib
 
-Results:
-- R2 Score = 0.87
+## Workflow
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Prediction
+
+## Results
+- R² Score: 0.87
+- RMSE calculated
+
+## Author
+Naivedh Vasisth
